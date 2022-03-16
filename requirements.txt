@@ -1,8 +1,5 @@
 Flask==2.0.3
 keras==2.8.0
 numpy==1.22.2
-tensorflow==2.8.0
 tqdm==4.63.0
-gunicorn
-sklearn
 gunicorn
